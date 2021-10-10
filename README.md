@@ -56,6 +56,14 @@ Tutorials that include code to train neural networks.
 | [302-pytorch-quantization-aware-training](notebooks/302-pytorch-quantization-aware-training) | Use Neural Network Compression Framework (NNCF) to quantize a PyTorch model for classification| |
 | [303-pytorch-int8-semseg-with-nncf-pot-openvino](notebooks/303-pytorch-int8-semseg-with-nncf-pot-openvino) | Use Neural Network Compression Framework (NNCF) to quantize a UNet for the semantic segmentation task on CamVid and compare with POT results| |
 
+### Live Demos
+
+Live inference demos that require a webcam.
+| Notebook | Description | Preview |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [402-pose-etimation-webcam](notebooks/402-pose-estimation-webcam/) | Human pose estimation with a webcam or video file | <img src="https://user-images.githubusercontent.com/4547501/134550328-a5c99d22-ae60-4281-8120-a8f06a17b96a.png" width=225> |
+
+
 ## ⚙️ System Requirements
 
 The notebooks run almost anywhere &mdash; your laptop, a cloud VM, or even a Docker container. The table below lists the supported operating systems and Python versions. **Note:** Python 3.9 is not supported yet, but it will be soon.

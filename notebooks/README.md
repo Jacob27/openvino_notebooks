@@ -46,3 +46,12 @@ Tutorials that include code to train neural networks.
 | [301-tensorflow-training-openvino-pot](301-tensorflow-training-openvino/) | Use Post-training Optimization Tool (POT) to quantize the flowers model | |
 | [302-pytorch-quantization-aware-training](302-pytorch-quantization-aware-training) | Use Neural Network Compression Framework (NNCF) to quantize a PyTorch model for classification| |
 | [303-pytorch-int8-semseg-with-nncf-pot-openvino](303-pytorch-int8-semseg-with-nncf-pot-openvino/) | Use Neural Network Compression Framework (NNCF) to quantize a UNet for the semantic segmentation task on CamVid and compare with POT| |
+
+
+## Live Demos
+
+Demos working with a webcam.
+| Notebook | Description | Preview |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [402-pose-etimation-webcam](402-pose-estimation-webcam/) | Human pose estimation with a webcam or video file | <img src="https://user-images.githubusercontent.com/4547501/134550328-a5c99d22-ae60-4281-8120-a8f06a17b96a.png" width=225> |
+
